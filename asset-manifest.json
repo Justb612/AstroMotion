@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AstroMotion/static/css/main.4ac0baed.chunk.css",
-    "main.js": "/AstroMotion/static/js/main.09b75b77.chunk.js",
-    "main.js.map": "/AstroMotion/static/js/main.09b75b77.chunk.js.map",
+    "main.js": "/AstroMotion/static/js/main.296cafa3.chunk.js",
+    "main.js.map": "/AstroMotion/static/js/main.296cafa3.chunk.js.map",
     "runtime-main.js": "/AstroMotion/static/js/runtime-main.1b2b069a.js",
     "runtime-main.js.map": "/AstroMotion/static/js/runtime-main.1b2b069a.js.map",
     "static/js/2.ef5d72de.chunk.js": "/AstroMotion/static/js/2.ef5d72de.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.1b2b069a.js",
     "static/js/2.ef5d72de.chunk.js",
     "static/css/main.4ac0baed.chunk.css",
-    "static/js/main.09b75b77.chunk.js"
+    "static/js/main.296cafa3.chunk.js"
   ]
 }
