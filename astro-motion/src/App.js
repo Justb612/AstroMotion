@@ -10,15 +10,16 @@ function App() {
         <video autoPlay loop muted id="videoBG">
           <source src={backgroundVideo} type="video/mp4" />
         </video>
+        <div>
+          <nav className="amo__navbar-container">
+            <box>Homepage</box>
+            <box>Menu</box>
+            <box>Gallery</box>
+            <box>Contact us</box>
+          </nav>
+        </div>
         <div className="amo__first-container">
           {" "}
-          <div>
-            <nav className="amo__navbar-container">
-              <box>zzz</box>
-              <box>ddd</box>
-              <box>sss</box>
-            </nav>
-          </div>
           <div>
             <div>
               {" "}
@@ -38,7 +39,7 @@ function App() {
             </div>{" "}
           </div>
           <div className="amo__first-container_txt">
-            <h1>Welcome to our website</h1>{" "}
+            <h1>Danasnji Specialiteti</h1>{" "}
             <p>
               {" "}
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
