@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AstroMotion/static/css/main.4ac0baed.chunk.css",
+    "main.js": "/AstroMotion/static/js/main.09b75b77.chunk.js",
+    "main.js.map": "/AstroMotion/static/js/main.09b75b77.chunk.js.map",
+    "runtime-main.js": "/AstroMotion/static/js/runtime-main.1b2b069a.js",
+    "runtime-main.js.map": "/AstroMotion/static/js/runtime-main.1b2b069a.js.map",
+    "static/js/2.ef5d72de.chunk.js": "/AstroMotion/static/js/2.ef5d72de.chunk.js",
+    "static/js/2.ef5d72de.chunk.js.map": "/AstroMotion/static/js/2.ef5d72de.chunk.js.map",
+    "static/js/3.591cabce.chunk.js": "/AstroMotion/static/js/3.591cabce.chunk.js",
+    "static/js/3.591cabce.chunk.js.map": "/AstroMotion/static/js/3.591cabce.chunk.js.map",
+    "index.html": "/AstroMotion/index.html",
+    "static/css/main.4ac0baed.chunk.css.map": "/AstroMotion/static/css/main.4ac0baed.chunk.css.map",
+    "static/js/2.ef5d72de.chunk.js.LICENSE.txt": "/AstroMotion/static/js/2.ef5d72de.chunk.js.LICENSE.txt",
+    "static/media/firstIMG.26d2b3e1.jpg": "/AstroMotion/static/media/firstIMG.26d2b3e1.jpg",
+    "static/media/thirdIMG.8d83f553.jpg": "/AstroMotion/static/media/thirdIMG.8d83f553.jpg",
+    "static/media/videotest.4c13fb2d.mp4": "/AstroMotion/static/media/videotest.4c13fb2d.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b2b069a.js",
+    "static/js/2.ef5d72de.chunk.js",
+    "static/css/main.4ac0baed.chunk.css",
+    "static/js/main.09b75b77.chunk.js"
+  ]
+}
