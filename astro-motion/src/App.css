@@ -27,10 +27,12 @@
 .amo__first-container img {
   width: 230px;
   height: 160px;
+
+  border-radius: 15px;
 }
 
 .amo__first-container_txt {
-  border-radius: 0px 50px 50px 0px;
+  border-radius: 10px 10px 10px 10px;
   margin-left: 25px;
   background: rgba(0, 0, 0, 0.7);
   color: white;
@@ -55,10 +57,4 @@
 
 .amo__first-container_img-two {
   margin-top: 25px;
-}
-
-.amo__navbar-container {
-  height: 100px;
-  background: rgba(0, 0, 0, 0.7);
-  color: white;
 }

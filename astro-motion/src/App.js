@@ -1,7 +1,9 @@
 import "./App.css";
-import backgroundVideo from "./assets/videotest.mp4";
+import backgroundVideo from "./assets/backgroundvideo.mp4";
 import firstIMG from "./assets/firstIMG.jpg";
+import Navbar from "./Components/Navbar/Navbar";
 import thirdIMG from "./assets/thirdIMG.jpg";
+import CarouselComponent from "./Components/Carousel/CarouselComponent";
 
 function App() {
   return (
@@ -10,14 +12,7 @@ function App() {
         <video autoPlay loop muted id="videoBG">
           <source src={backgroundVideo} type="video/mp4" />
         </video>
-        <div>
-          <nav className="amo__navbar-container">
-            <box>Homepage</box>
-            <box>Menu</box>
-            <box>Gallery</box>
-            <box>Contact us</box>
-          </nav>
-        </div>
+        <Navbar />
         <div className="amo__first-container">
           {" "}
           <div>
@@ -51,6 +46,7 @@ function App() {
               sunt in culpa qui officia deserunt mollit anim id est laborum.
             </p>{" "}
           </div>
+          <CarouselComponent />
         </div>
       </body>
     </div>
